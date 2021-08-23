@@ -1,2 +1,1 @@
-# devopssample
-devops sample
+this is a sample DevOps file
